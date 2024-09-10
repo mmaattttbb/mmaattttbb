@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">A up and coming Software Engineering Student at the University of Ottawa</h3>
+<h3 align="center">An up and coming Software Engineering Student at the University of Ottawa</h3>
 
 - 🔭 I’m currently working on **practicing on personal projects**
 
